@@ -1,0 +1,23 @@
+vendor
+# You have to delete composer.lock and then do a 
+# composer update if you want to look for new 
+# versions of your dependencies.
+composer.lock
+
+# On the mac, .DS_Store is a file in each dir.
+.DS_Store
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, 
+# unless a significant
+# proportion of contributors will probably not be using 
+# SublimeText
+*.sublime-project
+
+composer.lock
+code-coverage
+build
+tmp
+
