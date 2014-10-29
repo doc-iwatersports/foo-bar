@@ -1,6 +1,6 @@
 {
-    "name": "Bradtech302/bradford-json-objects",
-    "description": "Bradford JSON data structures",
+    "name": "doc-iwatersports/foo-bar",
+    "description": "FooBar",
     "license": "Copyright Bradford Technologies",
     "autoload": {
         "psr-0": {"Foo\\": "src/"}
